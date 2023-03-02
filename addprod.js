@@ -1,5 +1,5 @@
 function add(a,b){
-return a+b+32;
+return a+b;
 };
 
 function mul(a,b){
