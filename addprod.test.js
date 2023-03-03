@@ -5,5 +5,5 @@ test("testing add 1+2 equalto 3 ",()=>{
 })
 
 test("testing prod 1*2 equal to 2 ",()=>{
-    expect(prod(5, 2)).toBe(10);
+    expect(prod(4, 2)).toBe(8);
 })
