@@ -3,7 +3,7 @@ return a+b;
 };
 
 function mul(a,b){
-    return a*b;
+    return b*a;
 };
 
 module.exports={
